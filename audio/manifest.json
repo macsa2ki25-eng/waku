@@ -16,6 +16,28 @@
   "encoding": "MP3, 24 kHz, mono, 96 kbps",
   "clips": [
     {
+      "id": "all-done",
+      "english": "all done",
+      "spoken_text": "all done.",
+      "sha256": "f52cb2264dd575569ce2e7a9304d516b3768166c396453a611454458525c8519",
+      "duration_seconds": 1.0273,
+      "peak_dbfs": -5.01,
+      "rms_dbfs": -21.35,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "ant",
+      "english": "ant",
+      "spoken_text": "ant.",
+      "sha256": "40447e92bad21ff5b1bf080c369dc47136f4f77078a70b31d85a98de4caf0ac8",
+      "duration_seconds": 0.855,
+      "peak_dbfs": -7.78,
+      "rms_dbfs": -21.85,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "apple",
       "english": "apple",
       "spoken_text": "apple.",
@@ -60,6 +82,28 @@
       "channels": 1
     },
     {
+      "id": "bat",
+      "english": "bat",
+      "spoken_text": "bat.",
+      "sha256": "9185fd2a5d4fe44ed7ce3ac3460ede16727e905d8d558fa7af71bb8682fbe586",
+      "duration_seconds": 0.9461,
+      "peak_dbfs": -3.61,
+      "rms_dbfs": -21.69,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "be-careful",
+      "english": "be careful",
+      "spoken_text": "be careful.",
+      "sha256": "023ddfcbba74ebc474c59d2697ad8c0807c12be3cf99188c66d11acb531f4ba8",
+      "duration_seconds": 1.1389,
+      "peak_dbfs": -5.06,
+      "rms_dbfs": -20.84,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "bear",
       "english": "bear",
       "spoken_text": "bear.",
@@ -71,6 +115,72 @@
       "channels": 1
     },
     {
+      "id": "beaver",
+      "english": "beaver",
+      "spoken_text": "beaver.",
+      "sha256": "16cccefb113bfcfafe17a7ee1473ab846e8e73c40ee19bbac175b3dad41bbf45",
+      "duration_seconds": 0.9648,
+      "peak_dbfs": -5.93,
+      "rms_dbfs": -21.79,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "bed",
+      "english": "bed",
+      "spoken_text": "bed.",
+      "sha256": "c378979afd2fcb6da0570697b8760e64b8fe16a007b43a22e4f2c604c43576db",
+      "duration_seconds": 0.8855,
+      "peak_dbfs": -4.5,
+      "rms_dbfs": -22.23,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "bee",
+      "english": "bee",
+      "spoken_text": "bee.",
+      "sha256": "859d8fb3e70314a455fdf14019a2311f34ec2ee1cb8e81cbe545f57aa53546e3",
+      "duration_seconds": 0.8837,
+      "peak_dbfs": -6.31,
+      "rms_dbfs": -22.21,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "bell",
+      "english": "bell",
+      "spoken_text": "bell.",
+      "sha256": "bfd180d27d921e12a54978831f594ca81eb2284aea7a3cd947d049e14b6d8182",
+      "duration_seconds": 0.8787,
+      "peak_dbfs": -3.31,
+      "rms_dbfs": -22.16,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "bell-pepper",
+      "english": "bell pepper",
+      "spoken_text": "bell pepper.",
+      "sha256": "749e0f67f579caf1ae992ac4ba5123efc91740ebeca0561a8ec83cebaca24383",
+      "duration_seconds": 1.154,
+      "peak_dbfs": -3.31,
+      "rms_dbfs": -20.26,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "big",
+      "english": "big",
+      "spoken_text": "big.",
+      "sha256": "899c0c64a4f583d3fbc50aed3d608ec6db2c823ce66b8db410de462df8b5d7fd",
+      "duration_seconds": 0.89,
+      "peak_dbfs": -6.04,
+      "rms_dbfs": -22.21,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "bird",
       "english": "bird",
       "spoken_text": "bird.",
@@ -78,6 +188,50 @@
       "duration_seconds": 0.9506,
       "peak_dbfs": -5.43,
       "rms_dbfs": -21.86,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "block",
+      "english": "block",
+      "spoken_text": "block.",
+      "sha256": "53b206d3fe15443cf6eabd60dc4ea2f2b51a5fcf543d768105dc50ea825d00cb",
+      "duration_seconds": 0.962,
+      "peak_dbfs": -3.85,
+      "rms_dbfs": -21.92,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "blueberry",
+      "english": "blueberry",
+      "spoken_text": "blueberry.",
+      "sha256": "082faefdda8ede0da8d9c4db864e0d27df8e06fd1b7d23676f1e8f43398e024b",
+      "duration_seconds": 1.0436,
+      "peak_dbfs": -5.25,
+      "rms_dbfs": -21.07,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "boat",
+      "english": "boat",
+      "spoken_text": "boat.",
+      "sha256": "ab2b98642b113320d41162639f615932f7fab510d7f037a9f6f480bb0cdebb9d",
+      "duration_seconds": 0.9164,
+      "peak_dbfs": -5.54,
+      "rms_dbfs": -21.81,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "book",
+      "english": "book",
+      "spoken_text": "book.",
+      "sha256": "168abd49b89f59309b06fa9432f0796be075c23dca1b45bb9f3b8d6c6edd7e3b",
+      "duration_seconds": 0.8587,
+      "peak_dbfs": -4.46,
+      "rms_dbfs": -22.12,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -104,6 +258,17 @@
       "channels": 1
     },
     {
+      "id": "bucket",
+      "english": "bucket",
+      "spoken_text": "bucket.",
+      "sha256": "dad059be73f61ea33c337d3aee3eae5ea6e764b26dacc933ec3961bfd21d9807",
+      "duration_seconds": 1.0204,
+      "peak_dbfs": -2.81,
+      "rms_dbfs": -21.18,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "butterfly",
       "english": "butterfly",
       "spoken_text": "butterfly.",
@@ -111,6 +276,17 @@
       "duration_seconds": 1.1614,
       "peak_dbfs": -3.87,
       "rms_dbfs": -20.61,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "button",
+      "english": "button",
+      "spoken_text": "button.",
+      "sha256": "7e95eac5596ba5a71e36b404fed3ae42216c49fd2dbf679c49b7c1ffce642b9d",
+      "duration_seconds": 0.9203,
+      "peak_dbfs": -3.35,
+      "rms_dbfs": -21.64,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -181,6 +357,39 @@
       "channels": 1
     },
     {
+      "id": "climb-up",
+      "english": "climb up",
+      "spoken_text": "climb up.",
+      "sha256": "ca8a4b9382c0460e19fbfbc90265b7725871719dfe00f02cf8859e291d4183a1",
+      "duration_seconds": 1.0413,
+      "peak_dbfs": -7.53,
+      "rms_dbfs": -21.67,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "clock",
+      "english": "clock",
+      "spoken_text": "clock.",
+      "sha256": "f687f11b42db50700b36dce8bed7fd811007dfbf81d9b9f2e36ac385c92ece4e",
+      "duration_seconds": 0.9334,
+      "peak_dbfs": -4.1,
+      "rms_dbfs": -21.98,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "cloud",
+      "english": "cloud",
+      "spoken_text": "cloud.",
+      "sha256": "6b7cf187cf9f79df5ee52f60340aaec0c238731fa986a9481bd97a8fd073a2fb",
+      "duration_seconds": 0.9568,
+      "peak_dbfs": -6.27,
+      "rms_dbfs": -21.95,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "coconut",
       "english": "coconut",
       "spoken_text": "coconut.",
@@ -188,6 +397,17 @@
       "duration_seconds": 1.0777,
       "peak_dbfs": -5.31,
       "rms_dbfs": -21.46,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "compass",
+      "english": "compass",
+      "spoken_text": "compass.",
+      "sha256": "9b9eee43c17db6ec2dfc235acdd834ead64949ed54fbb182bbd34b41355b3928",
+      "duration_seconds": 1.0292,
+      "peak_dbfs": -4.01,
+      "rms_dbfs": -21.37,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -214,6 +434,28 @@
       "channels": 1
     },
     {
+      "id": "crab",
+      "english": "crab",
+      "spoken_text": "crab.",
+      "sha256": "ac3cab838d1ada628f93e561f2bef06e591ebd16dc1cdac3b832d810615d5a67",
+      "duration_seconds": 0.9038,
+      "peak_dbfs": -5.23,
+      "rms_dbfs": -21.86,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "crocodile",
+      "english": "crocodile",
+      "spoken_text": "crocodile.",
+      "sha256": "c7e16635e898a5849d86eac615d64751886c8d789686990d2449be969d82e646",
+      "duration_seconds": 1.1423,
+      "peak_dbfs": -4.53,
+      "rms_dbfs": -21.15,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "cucumber",
       "english": "cucumber",
       "spoken_text": "cucumber.",
@@ -221,6 +463,50 @@
       "duration_seconds": 1.078,
       "peak_dbfs": -5.42,
       "rms_dbfs": -21.69,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "dangerous",
+      "english": "dangerous",
+      "spoken_text": "dangerous.",
+      "sha256": "1f1e835eae11a2ff2bfbb099bb9c6204995a18b5679fdcd0c1a0be673b364d47",
+      "duration_seconds": 1.142,
+      "peak_dbfs": -4.02,
+      "rms_dbfs": -20.67,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "dark",
+      "english": "dark",
+      "spoken_text": "dark.",
+      "sha256": "6a6b2494d27ceb2addd10cbd5f4ebc423df889a11c99979bd8b09a2fd798855f",
+      "duration_seconds": 0.9343,
+      "peak_dbfs": -5.87,
+      "rms_dbfs": -21.97,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "deep",
+      "english": "deep",
+      "spoken_text": "deep.",
+      "sha256": "ada6eb26c219c2755b5eb31ccafda1b313d43d12ce2dc59d82d697adac5e2ec9",
+      "duration_seconds": 0.8908,
+      "peak_dbfs": -6.38,
+      "rms_dbfs": -22.1,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "desert",
+      "english": "desert",
+      "spoken_text": "desert.",
+      "sha256": "b429e0e9735930117045683b296dfaf7bad56da1038879301edb63f72e34d11c",
+      "duration_seconds": 1.0028,
+      "peak_dbfs": -5.41,
+      "rms_dbfs": -21.58,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -280,6 +566,17 @@
       "channels": 1
     },
     {
+      "id": "eagle",
+      "english": "eagle",
+      "spoken_text": "eagle.",
+      "sha256": "599b61a2371af85e1d6097b31def128770ff8ba68712f09173db6d128f175968",
+      "duration_seconds": 0.9191,
+      "peak_dbfs": -6.72,
+      "rms_dbfs": -21.51,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "eggplant",
       "english": "eggplant",
       "spoken_text": "eggplant.",
@@ -298,6 +595,17 @@
       "duration_seconds": 1.037,
       "peak_dbfs": -2.59,
       "rms_dbfs": -21.96,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "fast",
+      "english": "fast",
+      "spoken_text": "fast.",
+      "sha256": "15bd9ffc0053b8aa4c25ace41d422d6332312a43061d3018635bc3c50c5ffdec",
+      "duration_seconds": 0.9819,
+      "peak_dbfs": -3.09,
+      "rms_dbfs": -22.14,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -324,6 +632,17 @@
       "channels": 1
     },
     {
+      "id": "flag",
+      "english": "flag",
+      "spoken_text": "flag.",
+      "sha256": "3d9e94a94d3996722b7187a6c1a07d849fd333e2ac4e9e34fb8012ce7c5808cd",
+      "duration_seconds": 0.9708,
+      "peak_dbfs": -5.64,
+      "rms_dbfs": -22.01,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "fox",
       "english": "fox",
       "spoken_text": "fox.",
@@ -346,6 +665,17 @@
       "channels": 1
     },
     {
+      "id": "garlic",
+      "english": "garlic",
+      "spoken_text": "garlic.",
+      "sha256": "5835fc076711a4c90a80f9ed7c19fa05791ec912fedeef1616f3cf3e027c9ab1",
+      "duration_seconds": 1.0348,
+      "peak_dbfs": -6.43,
+      "rms_dbfs": -21.36,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "giraffe",
       "english": "giraffe",
       "spoken_text": "giraffe.",
@@ -353,6 +683,28 @@
       "duration_seconds": 0.9998,
       "peak_dbfs": -5.81,
       "rms_dbfs": -21.22,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "glass",
+      "english": "glass",
+      "spoken_text": "glass.",
+      "sha256": "02aa51da865b92416010213522d70b158449649f5484754787d4f8a9df1ba0ce",
+      "duration_seconds": 0.9583,
+      "peak_dbfs": -5.41,
+      "rms_dbfs": -21.55,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "go-down",
+      "english": "go down",
+      "spoken_text": "go down.",
+      "sha256": "34d8f5e0cf31b772789a037dffc757298c1f08fd37dfea8585c137483bd62718",
+      "duration_seconds": 1.0352,
+      "peak_dbfs": -4.76,
+      "rms_dbfs": -20.98,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -375,6 +727,61 @@
       "duration_seconds": 0.9549,
       "peak_dbfs": -5.1,
       "rms_dbfs": -21.67,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "green-apple",
+      "english": "green apple",
+      "spoken_text": "green apple.",
+      "sha256": "85b1640d6909b1b14a50b4eac3e68f36ad5dc49a9af3ba3fa3ef971d0383ae85",
+      "duration_seconds": 1.2225,
+      "peak_dbfs": -5.04,
+      "rms_dbfs": -20.49,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "green-broccoli",
+      "english": "green broccoli",
+      "spoken_text": "green broccoli.",
+      "sha256": "31d452605c5599e3221340e9daadf23b2948a7a1478ce53db262ce2b55352176",
+      "duration_seconds": 1.3013,
+      "peak_dbfs": -4.42,
+      "rms_dbfs": -20.33,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "hedgehog",
+      "english": "hedgehog",
+      "spoken_text": "hedgehog.",
+      "sha256": "d2c382b9753b72155c1f2a9d030621b671acbd7d4a77fca2e95d7f5967a8d910",
+      "duration_seconds": 1.0236,
+      "peak_dbfs": -4.85,
+      "rms_dbfs": -21.45,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "hidden",
+      "english": "hidden",
+      "spoken_text": "hidden.",
+      "sha256": "b308c98d49e0c4dbb83276e0c8775a073e66efe0f272ba35b8851944a37c9384",
+      "duration_seconds": 0.9099,
+      "peak_dbfs": -6.66,
+      "rms_dbfs": -21.65,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "high",
+      "english": "high",
+      "spoken_text": "high.",
+      "sha256": "c77f24cae2df1e559fbc097cbadf701664c64d4ddbd67d0992acb1691dc66473",
+      "duration_seconds": 0.8671,
+      "peak_dbfs": -7.24,
+      "rms_dbfs": -22.17,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -412,6 +819,61 @@
       "channels": 1
     },
     {
+      "id": "inside",
+      "english": "inside",
+      "spoken_text": "inside.",
+      "sha256": "a3df1efc42c28ea7a9572ffb907baa79e92e350c500536be59410c178540fe23",
+      "duration_seconds": 1.154,
+      "peak_dbfs": -4.28,
+      "rms_dbfs": -20.52,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "iron",
+      "english": "iron",
+      "spoken_text": "iron.",
+      "sha256": "3eaf77dc754b89955faa0ba19ead404a76a3fe1db3958585f2df5f4e6ade64e2",
+      "duration_seconds": 0.938,
+      "peak_dbfs": -5.91,
+      "rms_dbfs": -21.57,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "island",
+      "english": "island",
+      "spoken_text": "island.",
+      "sha256": "0b5b14126406d47a534afded44bc954d5b074303a07c13fc9af42c574e9672af",
+      "duration_seconds": 0.9828,
+      "peak_dbfs": -6.57,
+      "rms_dbfs": -21.65,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "jellyfish",
+      "english": "jellyfish",
+      "spoken_text": "jellyfish.",
+      "sha256": "7b5b4bb00c7979c3dfbbc8f049c5ae26c5e2d57c94c9d0c835f6632956020163",
+      "duration_seconds": 1.0993,
+      "peak_dbfs": -3.33,
+      "rms_dbfs": -20.65,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "kangaroo",
+      "english": "kangaroo",
+      "spoken_text": "kangaroo.",
+      "sha256": "32817889dcfc6d5d973c7543d422f275bcbd663095f68cad8ee7d28a6c58260f",
+      "duration_seconds": 1.0779,
+      "peak_dbfs": -6.54,
+      "rms_dbfs": -21.62,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "key",
       "english": "key",
       "spoken_text": "key.",
@@ -434,6 +896,17 @@
       "channels": 1
     },
     {
+      "id": "koala",
+      "english": "koala",
+      "spoken_text": "koala.",
+      "sha256": "9dbe214d0ec804d7aa2b82c2dee6e2fd69158ec658b236cdc51c7b249f210b74",
+      "duration_seconds": 1.0675,
+      "peak_dbfs": -5.17,
+      "rms_dbfs": -21.26,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "ladder",
       "english": "ladder",
       "spoken_text": "ladder.",
@@ -441,6 +914,17 @@
       "duration_seconds": 0.9565,
       "peak_dbfs": -6.15,
       "rms_dbfs": -21.47,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "ladybug",
+      "english": "ladybug",
+      "spoken_text": "ladybug.",
+      "sha256": "646b55723a765426433d79b58ffd7a1e45f30d27f580a399468edcfbe84880d1",
+      "duration_seconds": 1.1544,
+      "peak_dbfs": -4.76,
+      "rms_dbfs": -20.83,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -467,6 +951,50 @@
       "channels": 1
     },
     {
+      "id": "lets-go",
+      "english": "let's go",
+      "spoken_text": "let's go.",
+      "sha256": "bc2cecacc3974e5b0c61f9f31147a002f0eef9b268d0f6a82570ce932004e4f5",
+      "duration_seconds": 1.1449,
+      "peak_dbfs": -4.58,
+      "rms_dbfs": -21.05,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "lettuce",
+      "english": "lettuce",
+      "spoken_text": "lettuce.",
+      "sha256": "5dd0d14a3685ad6a091ba8e62cf31cb90d84a67155bc41fd3df1f8c06c6f2e5f",
+      "duration_seconds": 1.0019,
+      "peak_dbfs": -5.41,
+      "rms_dbfs": -21.19,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "lever",
+      "english": "lever",
+      "spoken_text": "lever.",
+      "sha256": "a820e7aa2bcb1f008eaf431d0fe7960ce3e907ebeda83b2112aac58e85f9423c",
+      "duration_seconds": 0.9192,
+      "peak_dbfs": -4.96,
+      "rms_dbfs": -21.42,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "lightning",
+      "english": "lightning",
+      "spoken_text": "lightning.",
+      "sha256": "b62005bbc2d6a196f07675e22c374424edab6fda1b73be6f97c1a1b362ae9e9a",
+      "duration_seconds": 1.0343,
+      "peak_dbfs": -3.92,
+      "rms_dbfs": -21.16,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "lion",
       "english": "lion",
       "spoken_text": "lion.",
@@ -474,6 +1002,28 @@
       "duration_seconds": 0.9273,
       "peak_dbfs": -5.1,
       "rms_dbfs": -21.52,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "lobster",
+      "english": "lobster",
+      "spoken_text": "lobster.",
+      "sha256": "e1b5e3ee4a3dded7c392e4bb109bb9be0ca9fa535599041ced628a1bd1db8d2f",
+      "duration_seconds": 1.082,
+      "peak_dbfs": -5.07,
+      "rms_dbfs": -21.4,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "lock",
+      "english": "lock",
+      "spoken_text": "lock.",
+      "sha256": "9014973ec645b995e4c1a15c570a264cecf67e2036b396ceb843493021bbfced",
+      "duration_seconds": 0.914,
+      "peak_dbfs": -4.46,
+      "rms_dbfs": -21.27,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -489,6 +1039,28 @@
       "channels": 1
     },
     {
+      "id": "map",
+      "english": "map",
+      "spoken_text": "map.",
+      "sha256": "04fcd36e66eb6cf0d6c4aa29b0a3aa9c8819b7a243c7d0adb5a62f7cd6baa511",
+      "duration_seconds": 0.8871,
+      "peak_dbfs": -6.62,
+      "rms_dbfs": -22.02,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "melon",
+      "english": "melon",
+      "spoken_text": "melon.",
+      "sha256": "a95a8b6a1fb11a0efb1b047396999c0fd74c204ce2329fbbaed1d056b991f654",
+      "duration_seconds": 0.9248,
+      "peak_dbfs": -5.3,
+      "rms_dbfs": -21.29,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "monkey",
       "english": "monkey",
       "spoken_text": "monkey.",
@@ -496,6 +1068,28 @@
       "duration_seconds": 1.0195,
       "peak_dbfs": -3.19,
       "rms_dbfs": -20.99,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "moon",
+      "english": "moon",
+      "spoken_text": "moon.",
+      "sha256": "655343173a61e31ccecbb3ef9418027b56ba002ee7e2c551e526a8394e717123",
+      "duration_seconds": 0.9042,
+      "peak_dbfs": -6.8,
+      "rms_dbfs": -21.14,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "mountain",
+      "english": "mountain",
+      "spoken_text": "mountain.",
+      "sha256": "648c8e93510015b128b124a5e486d862af6958adee99737c84128714865e8b9e",
+      "duration_seconds": 1.0006,
+      "peak_dbfs": -4.45,
+      "rms_dbfs": -21.38,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -511,6 +1105,50 @@
       "channels": 1
     },
     {
+      "id": "narrow",
+      "english": "narrow",
+      "spoken_text": "narrow.",
+      "sha256": "e7c03410f5b07731a6947599d05b73e8a0bfa31e76203b0df7e0bddabe10a192",
+      "duration_seconds": 1.01,
+      "peak_dbfs": -6.98,
+      "rms_dbfs": -20.96,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "obsidian",
+      "english": "obsidian",
+      "spoken_text": "obsidian.",
+      "sha256": "99a3e9f6f2e772fec244e9d5c8628b05b95d10509f1cdb48bc69518cfc9317d1",
+      "duration_seconds": 1.1607,
+      "peak_dbfs": -2.63,
+      "rms_dbfs": -21.43,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "octopus",
+      "english": "octopus",
+      "spoken_text": "octopus.",
+      "sha256": "2fe7c4bb45c2380013dc1fefd14c5ffbd36614bda28c51af3723de0aad785f25",
+      "duration_seconds": 1.178,
+      "peak_dbfs": -4.97,
+      "rms_dbfs": -21.1,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "olive",
+      "english": "olive",
+      "spoken_text": "olive.",
+      "sha256": "6311db9ab9e6158d133545aa98a70f2aa5fec19d3aa6b46ecd09559b0a92d15b",
+      "duration_seconds": 0.966,
+      "peak_dbfs": -6.93,
+      "rms_dbfs": -21.69,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "onion",
       "english": "onion",
       "spoken_text": "onion.",
@@ -518,6 +1156,17 @@
       "duration_seconds": 0.9165,
       "peak_dbfs": -4.82,
       "rms_dbfs": -21.24,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "open",
+      "english": "open",
+      "spoken_text": "open.",
+      "sha256": "e1871a9dea4a830caefd4cfb498534d18c39bce5564ef7fe743ccbecfe6448ce",
+      "duration_seconds": 0.9436,
+      "peak_dbfs": -3.91,
+      "rms_dbfs": -21.08,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -533,6 +1182,39 @@
       "channels": 1
     },
     {
+      "id": "orange-carrot",
+      "english": "orange carrot",
+      "spoken_text": "orange carrot.",
+      "sha256": "959909cacdc8742f64dbf3821dddf47f81a33ab48da9638f103ed082bc410899",
+      "duration_seconds": 1.2901,
+      "peak_dbfs": -4.72,
+      "rms_dbfs": -20.04,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "otter",
+      "english": "otter",
+      "spoken_text": "otter.",
+      "sha256": "00533ca5f13d7811d00288d57470ffc785210c40f37d1ea5d5e9dda1d30c2359",
+      "duration_seconds": 0.9182,
+      "peak_dbfs": -6.69,
+      "rms_dbfs": -21.4,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "owl",
+      "english": "owl",
+      "spoken_text": "owl.",
+      "sha256": "cf0395592f1e5bbed513181b3dd128b39e1cc4fc406c8b2ac80629517b5984c4",
+      "duration_seconds": 0.8661,
+      "peak_dbfs": -3.59,
+      "rms_dbfs": -21.96,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "panda",
       "english": "panda",
       "spoken_text": "panda.",
@@ -540,6 +1222,17 @@
       "duration_seconds": 1.0023,
       "peak_dbfs": -5.62,
       "rms_dbfs": -21.42,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "pea",
+      "english": "pea",
+      "spoken_text": "pea.",
+      "sha256": "76c4d3265a01ba21130f8315022532a111ddff0b0873735f3ed9e9799b6d1bf8",
+      "duration_seconds": 0.8148,
+      "peak_dbfs": -7.26,
+      "rms_dbfs": -21.66,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -562,6 +1255,17 @@
       "duration_seconds": 0.8972,
       "peak_dbfs": -7.13,
       "rms_dbfs": -21.72,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "penguin",
+      "english": "penguin",
+      "spoken_text": "penguin.",
+      "sha256": "fc5ddc2ddd0ff15b3397b4e8a18a939b9e17700d6a00fa641f396fff9098e973",
+      "duration_seconds": 0.9917,
+      "peak_dbfs": -5.18,
+      "rms_dbfs": -21.23,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -610,6 +1314,28 @@
       "channels": 1
     },
     {
+      "id": "press-the-button",
+      "english": "press the button",
+      "spoken_text": "press the button.",
+      "sha256": "ae87cd7a10398d359b4092d0a92a5190a256808d32eb35edb9fbb7bf59bee872",
+      "duration_seconds": 1.247,
+      "peak_dbfs": -3.65,
+      "rms_dbfs": -21.27,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "pull-the-lever",
+      "english": "pull the lever",
+      "spoken_text": "pull the lever.",
+      "sha256": "9b54d94b119e699e643a360054e0dfebf6c00f0d1c64619a9511e8a8b1f20fc2",
+      "duration_seconds": 1.1581,
+      "peak_dbfs": -5.57,
+      "rms_dbfs": -21.1,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "pumpkin",
       "english": "pumpkin",
       "spoken_text": "pumpkin.",
@@ -617,6 +1343,17 @@
       "duration_seconds": 1.0253,
       "peak_dbfs": -3.07,
       "rms_dbfs": -21.11,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "purple-grapes",
+      "english": "purple grapes",
+      "spoken_text": "purple grapes.",
+      "sha256": "3e2a771a1c3d00d65d36957ea9eea726d832c5b8f2e492683d524ee1123d4b96",
+      "duration_seconds": 1.316,
+      "peak_dbfs": -3.85,
+      "rms_dbfs": -20.77,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -632,6 +1369,105 @@
       "channels": 1
     },
     {
+      "id": "raccoon",
+      "english": "raccoon",
+      "spoken_text": "raccoon.",
+      "sha256": "4c21da4462cd6ce66404e0fc2e2c37b65c47b4db4fa0a4c4b455a9665b2582c8",
+      "duration_seconds": 1.0771,
+      "peak_dbfs": -2.5,
+      "rms_dbfs": -21.34,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "rain",
+      "english": "rain",
+      "spoken_text": "rain.",
+      "sha256": "c1ad84933ccfeed649a83e04ef6188cc945c154b65328be231b512153c39e901",
+      "duration_seconds": 0.938,
+      "peak_dbfs": -4.22,
+      "rms_dbfs": -21.59,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "rainbow",
+      "english": "rainbow",
+      "spoken_text": "rainbow.",
+      "sha256": "e6e56d45b0ffcab09dc4ce1d64b66c6fbf5a618208b155f3af922e0358334a18",
+      "duration_seconds": 1.0766,
+      "peak_dbfs": -4.75,
+      "rms_dbfs": -21.47,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "red-apple",
+      "english": "red apple",
+      "spoken_text": "red apple.",
+      "sha256": "3ba113fa9ec0cc48f63e69c96457f3813756fd8b7bec94182cf9951e99cbfd65",
+      "duration_seconds": 1.1847,
+      "peak_dbfs": -4.0,
+      "rms_dbfs": -20.7,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "red-tomato",
+      "english": "red tomato",
+      "spoken_text": "red tomato.",
+      "sha256": "368092cc0934a49a6661f0a3dd7c2eb78492933c887689e3e908c480346d640b",
+      "duration_seconds": 1.2877,
+      "peak_dbfs": -4.68,
+      "rms_dbfs": -21.25,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "redstone",
+      "english": "redstone",
+      "spoken_text": "redstone.",
+      "sha256": "3f5be0a59341b5984f70b5eed318458145c454a2c69e011d3310b819c2f78e54",
+      "duration_seconds": 1.1309,
+      "peak_dbfs": -3.72,
+      "rms_dbfs": -21.06,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "rocket",
+      "english": "rocket",
+      "spoken_text": "rocket.",
+      "sha256": "d0e99e84d9374241456b1eeb0ad613f128cba4a5a4862f0d8fe2a3ea34b010f7",
+      "duration_seconds": 1.0433,
+      "peak_dbfs": -5.07,
+      "rms_dbfs": -21.02,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "roof",
+      "english": "roof",
+      "spoken_text": "roof.",
+      "sha256": "95f1c55fb02a9f66c1dfe8726f62adea958531d0117e7fdfd3aeb35a676d82f5",
+      "duration_seconds": 0.9273,
+      "peak_dbfs": -6.99,
+      "rms_dbfs": -21.54,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "safe",
+      "english": "safe",
+      "spoken_text": "safe.",
+      "sha256": "cdb155907376e7f67d6fbb6271f8f25135c21d57fd5c9ac959587d6cf61cb5ea",
+      "duration_seconds": 0.9563,
+      "peak_dbfs": -6.2,
+      "rms_dbfs": -22.29,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "sand",
       "english": "sand",
       "spoken_text": "sand.",
@@ -639,6 +1475,17 @@
       "duration_seconds": 1.0028,
       "peak_dbfs": -7.9,
       "rms_dbfs": -21.68,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "seal",
+      "english": "seal",
+      "spoken_text": "seal.",
+      "sha256": "20674dab7f45a8a09c4f8925026f10abd4c4f40d0fd931fd5b4ce0cc2c5ae2d9",
+      "duration_seconds": 0.9653,
+      "peak_dbfs": -7.08,
+      "rms_dbfs": -22.09,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -665,6 +1512,116 @@
       "channels": 1
     },
     {
+      "id": "shrimp",
+      "english": "shrimp",
+      "spoken_text": "shrimp.",
+      "sha256": "f3605babb78387ec65e68716f46edfff663417c72e58e5a03b7d0271bfaf9a49",
+      "duration_seconds": 0.9422,
+      "peak_dbfs": -7.38,
+      "rms_dbfs": -22.39,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "slow",
+      "english": "slow",
+      "spoken_text": "slow.",
+      "sha256": "4cee4e12ac306d9b8ba89fe6284b8339a46c93512a7d065e41caecd7b84a811b",
+      "duration_seconds": 0.9415,
+      "peak_dbfs": -4.68,
+      "rms_dbfs": -22.23,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "small",
+      "english": "small",
+      "spoken_text": "small.",
+      "sha256": "cb1e7fa3b2a763a85db685d55cb9d5d9ad9cff9fed321d06532cc97517f9d2f1",
+      "duration_seconds": 0.9495,
+      "peak_dbfs": -7.31,
+      "rms_dbfs": -22.14,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "snail",
+      "english": "snail",
+      "spoken_text": "snail.",
+      "sha256": "ae48cd655663f4cc7bb693e031099806d1388bb3bbdddd6e8e02d20a6a1e2d7c",
+      "duration_seconds": 0.9965,
+      "peak_dbfs": -7.39,
+      "rms_dbfs": -21.63,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "snake",
+      "english": "snake",
+      "spoken_text": "snake.",
+      "sha256": "925a49aed186fef68f6ee603e6e9126bcbda4cd206eafe1b87c9514051a5200e",
+      "duration_seconds": 0.9596,
+      "peak_dbfs": -7.11,
+      "rms_dbfs": -22.32,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "snow",
+      "english": "snow",
+      "spoken_text": "snow.",
+      "sha256": "3fb6d5cf65f998e78aae212b9c2abb01ed70d6b8031e550112e5159e028ed36b",
+      "duration_seconds": 0.975,
+      "peak_dbfs": -8.16,
+      "rms_dbfs": -22.19,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "spider",
+      "english": "spider",
+      "spoken_text": "spider.",
+      "sha256": "281cd8aadbac90f2331b8050d988cd7be6b737b58cd9854e3654ba25a34485d6",
+      "duration_seconds": 1.0608,
+      "peak_dbfs": -3.61,
+      "rms_dbfs": -21.9,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "squid",
+      "english": "squid",
+      "spoken_text": "squid.",
+      "sha256": "92f4d44e61b30db78421d4a68e75635dae79dc519e404a88d631fe55782ebe96",
+      "duration_seconds": 0.9973,
+      "peak_dbfs": -7.12,
+      "rms_dbfs": -21.89,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "stairs",
+      "english": "stairs",
+      "spoken_text": "stairs.",
+      "sha256": "b587032e9d6722f22080b38e0ba71da7609eab0725dd6db209feda786fbbf0b5",
+      "duration_seconds": 1.0798,
+      "peak_dbfs": -6.64,
+      "rms_dbfs": -22.08,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "star",
+      "english": "star",
+      "spoken_text": "star.",
+      "sha256": "0d726558542972e69e8d09b0321c562286036340ae93cfc90568d1f0ef2b3d90",
+      "duration_seconds": 0.986,
+      "peak_dbfs": -6.27,
+      "rms_dbfs": -22.27,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "stone",
       "english": "stone",
       "spoken_text": "stone.",
@@ -687,6 +1644,28 @@
       "channels": 1
     },
     {
+      "id": "strong",
+      "english": "strong",
+      "spoken_text": "strong.",
+      "sha256": "0272e04e62a9854ab8a72294e7571370f13e8543e876bc83d041e23f195586c8",
+      "duration_seconds": 1.048,
+      "peak_dbfs": -6.37,
+      "rms_dbfs": -22.05,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "sun",
+      "english": "sun",
+      "spoken_text": "sun.",
+      "sha256": "19424b00f0913fe1316057864d36c8c00dc49bbd574ba2f07e392bd97e851b56",
+      "duration_seconds": 0.931,
+      "peak_dbfs": -6.77,
+      "rms_dbfs": -22.08,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "sword",
       "english": "sword",
       "spoken_text": "sword.",
@@ -694,6 +1673,72 @@
       "duration_seconds": 0.9593,
       "peak_dbfs": -6.8,
       "rms_dbfs": -22.26,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "tent",
+      "english": "tent",
+      "spoken_text": "tent.",
+      "sha256": "82829262dc248da9dc5783f443ea0be65725fbc3b4308ae6e1fab629269a3d0a",
+      "duration_seconds": 0.866,
+      "peak_dbfs": -6.03,
+      "rms_dbfs": -22.46,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "thank-you",
+      "english": "thank you",
+      "spoken_text": "thank you.",
+      "sha256": "d0ad5920f5ce25d720cb876e1a9decea81172bf736c38f6e9d8663394a773044",
+      "duration_seconds": 1.0701,
+      "peak_dbfs": -5.36,
+      "rms_dbfs": -21.25,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "three-apples",
+      "english": "three apples",
+      "spoken_text": "three apples.",
+      "sha256": "41d48b0f1f1c5f6032a602727c0ffe87c2861c2260b3b3a3f3e1019bd9c113c7",
+      "duration_seconds": 1.2575,
+      "peak_dbfs": -4.32,
+      "rms_dbfs": -21.12,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "three-bananas",
+      "english": "three bananas",
+      "spoken_text": "three bananas.",
+      "sha256": "d4671f951cffc09f7106ac28d0cac830ce266cf2a61e777e688685b7c7be6b60",
+      "duration_seconds": 1.3769,
+      "peak_dbfs": -5.67,
+      "rms_dbfs": -20.97,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "three-carrots",
+      "english": "three carrots",
+      "spoken_text": "three carrots.",
+      "sha256": "b62befb580a9803775eb08d9d23dc2e95fbcb71fa2dc29b78caf178ea7705fa7",
+      "duration_seconds": 1.176,
+      "peak_dbfs": -5.56,
+      "rms_dbfs": -21.18,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "three-tomatoes",
+      "english": "three tomatoes",
+      "spoken_text": "three tomatoes.",
+      "sha256": "8f072b6dff471e27a58796c2f22b258dc48dbc6973b1f05c80b87c8e6b8983a6",
+      "duration_seconds": 1.3957,
+      "peak_dbfs": -5.73,
+      "rms_dbfs": -20.69,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -742,6 +1787,17 @@
       "channels": 1
     },
     {
+      "id": "train",
+      "english": "train",
+      "spoken_text": "train.",
+      "sha256": "aab4cbb381e11385b5c4f6592b03fd9c820cb7b2a76ff990bbbac0d70f316a1c",
+      "duration_seconds": 0.9421,
+      "peak_dbfs": -6.51,
+      "rms_dbfs": -21.99,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
       "id": "tree",
       "english": "tree",
       "spoken_text": "tree.",
@@ -760,6 +1816,61 @@
       "duration_seconds": 0.9275,
       "peak_dbfs": -4.7,
       "rms_dbfs": -21.89,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "two-apples",
+      "english": "two apples",
+      "spoken_text": "two apples.",
+      "sha256": "0edb22f4f1a210488653a90218459663e61dd77a3f69c3b7ca6379cf3d8bed9d",
+      "duration_seconds": 1.2195,
+      "peak_dbfs": -4.26,
+      "rms_dbfs": -20.98,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "two-bananas",
+      "english": "two bananas",
+      "spoken_text": "two bananas.",
+      "sha256": "9c63e386219712b27c366fdd1c0c49fb801c45f958f1fe76137354654bab8c78",
+      "duration_seconds": 1.3464,
+      "peak_dbfs": -6.66,
+      "rms_dbfs": -20.77,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "two-carrots",
+      "english": "two carrots",
+      "spoken_text": "two carrots.",
+      "sha256": "74f003cd5ee6d0ab344b3a8a233937406716e9221b0c0b5c83271bd7d005d3dd",
+      "duration_seconds": 1.1361,
+      "peak_dbfs": -5.84,
+      "rms_dbfs": -21.13,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "two-tomatoes",
+      "english": "two tomatoes",
+      "spoken_text": "two tomatoes.",
+      "sha256": "27319756d06c41daf2dd0732e17349a21c35758fc9f5326fbf66a2926e6ffa89",
+      "duration_seconds": 1.3816,
+      "peak_dbfs": -6.24,
+      "rms_dbfs": -20.93,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "wall",
+      "english": "wall",
+      "spoken_text": "wall.",
+      "sha256": "41c48d0bfd133496c91b8689d20af0c5a34210992da4cdc4f42158ae9713a4a9",
+      "duration_seconds": 0.914,
+      "peak_dbfs": -5.02,
+      "rms_dbfs": -21.31,
       "sample_rate": 24000,
       "channels": 1
     },
@@ -793,6 +1904,50 @@
       "duration_seconds": 0.9149,
       "peak_dbfs": -4.76,
       "rms_dbfs": -21.45,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "wide",
+      "english": "wide",
+      "spoken_text": "wide.",
+      "sha256": "31fc05c78bd5627b4da809fac51902f14881c3ebf631bc0d4018e9d9d04d800f",
+      "duration_seconds": 0.9441,
+      "peak_dbfs": -5.23,
+      "rms_dbfs": -21.5,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "window",
+      "english": "window",
+      "spoken_text": "window.",
+      "sha256": "333e2e57532f070d622f81d93525528159bae7700fa39718a9349ad5ebcf271c",
+      "duration_seconds": 0.9768,
+      "peak_dbfs": -6.42,
+      "rms_dbfs": -21.72,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "yellow-banana",
+      "english": "yellow banana",
+      "spoken_text": "yellow banana.",
+      "sha256": "789d069d1d2f1ff5563235b639cad8857c0f37a42105fd7986f5881d0a836d68",
+      "duration_seconds": 1.3667,
+      "peak_dbfs": -2.92,
+      "rms_dbfs": -20.41,
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "id": "yellow-corn",
+      "english": "yellow corn",
+      "spoken_text": "yellow corn.",
+      "sha256": "3ce509dad379272ab4d3fddc9a6bdb094ee8f4572c0c1e71065625820b7a2720",
+      "duration_seconds": 1.2763,
+      "peak_dbfs": -2.65,
+      "rms_dbfs": -20.7,
       "sample_rate": 24000,
       "channels": 1
     },

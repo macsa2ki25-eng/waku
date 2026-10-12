@@ -1,22 +1,27 @@
 # English pronunciation clips
 
-The 72 bundled clips use **Kokoro v0.19 neural speech synthesis**, the `af`
+The 177 bundled word and phrase clips use **Kokoro v0.19 neural speech synthesis**, the `af`
 US English female voice, through **sherpa-onnx 1.13.8**. They replace the old
 FFmpeg/Flite `slt` clips. These are machine-generated voices, not human recordings.
 The synthesis model, speech library and phonemizer are not shipped to browsers.
 Playing the bundled MP3s needs no remote speech service, API key or browser voice.
 
-Source vocabulary: `AUDIO_VOCABULARY` in `src/game.ts`, including all three stages.
-File names use vocabulary IDs; `tnt.mp3` pronounces the letter names “T N T”.
+Source vocabulary: `AUDIO_VOCABULARY` in `src/game.ts`, including all six stages
+and the video-inspired listening course. File names use stable vocabulary IDs
+(single words or hyphenated IDs for phrases). Apostrophes and spaces are preserved
+in the spoken English text; `tnt.mp3` pronounces the letter names “T N T”.
 The model speaks at speed `0.95`, without pitch-changing audio processing.
 FFmpeg normalizes each clip to approximately **−19 LUFS**, matching the previous
 comfortable volume, with a −2 dBTP ceiling, a 40 ms opening buffer and a 150 ms
 ending buffer. Output: mono 24 kHz MP3 at 96 kbps.
 
 `manifest.json` records the source, model/voice/checksums, synthesis settings,
-spoken text and decoded duration, level and SHA-256 for every clip. Every new
-clip is decoded and checked for usable speech, duration and clipping before
-any previous clips are replaced. These checks do not replace listening by a person.
+spoken text and decoded duration, level and SHA-256 for every clip. The generator
+reuses a clip only when the engine, model, voice, synthesis settings, English
+text and SHA-256 all match the manifest. It decodes both reused and new clips
+to check usable speech, duration and clipping before replacing files. New
+clips are staged on the output filesystem, so a generation failure leaves
+existing clips intact. These checks do not replace listening by a person.
 
 ## Optional regeneration
 
@@ -40,6 +45,8 @@ not a claimed upstream signature or published upstream checksum. The generator
 also rejects model/voice files whose SHA-256 no longer matches that archive.
 Do not disable TLS or alter expected checksums to get a changed download to run.
 Override `--model-dir`, `--dependencies-dir` and `--output-dir` for other machines.
+Run normally after adding vocabulary to generate only missing or changed clips;
+pass `--force` to intentionally regenerate every clip.
 Each cloud task is isolated: use the existing checkout, without a new worktree.
 
 ## Sources and licenses
